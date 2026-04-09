@@ -1,0 +1,18 @@
+/*<meta />*/
+
+/* MadCap-Branding applanguage:Templates/Projects/Online/Knowledge Base/ */
+
+:root
+{
+	--Dark: #45494C;
+	--Darkest: #000000;
+	--Light: #DADEE1;
+	--Lightest: #FFFFFF;
+	--Medium: #A4AAAE;
+	--HeroImage: url('../Images_Default/Hero-Image.png');
+	--FontFamily: Arial, Avenir, Myriad;
+	--Primary: #004225;
+	--Secondary: #333333;
+	--LogoImage: url('../Images/new_mini_logo.jpg');
+}
+
